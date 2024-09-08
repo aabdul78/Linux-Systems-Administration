@@ -10,6 +10,7 @@ ls -l
 ![image](https://github.com/user-attachments/assets/67f74d11-c6fa-489c-a001-dfce8af0829b)
 
 Command to set permissions (if needed): sudo chmod /etc/shadow
+
 ![image](https://github.com/user-attachments/assets/8d48da50-dda1-41fa-ac4e-56eb8369ec3b)
 
 Permissions on /etc/gshadow should allow only root read and write access.
