@@ -1,5 +1,7 @@
 # Linux-Systems-Administration
+
 Ensure/Double Check Permissions on Sensitive Files
+
 Permissions on /etc/shadow should allow only root read and write access.
 
 Command to inspect permissions:
