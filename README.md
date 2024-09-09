@@ -73,6 +73,35 @@ sudo chgrp engineers groups_sharefolder
 ![image](https://github.com/user-attachments/assets/5a1636f2-8629-44e8-b5c2-4539170a3e3c)
 
 
+Step 4: Lynis Auditing:
+
+Command to install Lynis: sudo apt install lynis
+
+
+![image](https://github.com/user-attachments/assets/2d8044af-bb4c-4edc-b9d7-a38506c3da0c)
+
+Command to see documentation and instructions: man lynis
+
+![image](https://github.com/user-attachments/assets/0391cb0e-0d5e-4bb4-8dca-26ef6e7287c9)
+
+
+Command to run an audit: sudo lynis audit system
+![image](https://github.com/user-attachments/assets/c4e7bb79-95c2-47c0-ba54-539c589ddffe)
+
+
+Provide a report from the Lynis output on what can be done to harden the system.
+
+Screenshot of report output:
+![image](https://github.com/user-attachments/assets/ab3b4fcc-f299-4127-acc8-d6e0656f3fb6)
+
+![image](https://github.com/user-attachments/assets/c3b3f520-d188-4cc9-8b6a-701a2a48e567)
+
+
+
+
+
+
+
 
 
 
