@@ -44,6 +44,12 @@ Command to add each user account (include all five users).
 sudo adduser sam sudo adduser joe sudo adduser amy sudo adduser sara sudo adduser admin
 ![image](https://github.com/user-attachments/assets/8a4e1d6c-d5a9-4262-83ba-6a84c0fa968e)
 
+Ensure that only the admin has general sudo access. sudo -lU admin1
+![image](https://github.com/user-attachments/assets/f58386a1-677f-405a-9112-3feedafc2d47)
+
+
+
+
 
 
 
