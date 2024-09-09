@@ -63,6 +63,7 @@ Add users sam, joe, amy, and sara to the managed group. Command to add users to 
 ![image](https://github.com/user-attachments/assets/0711ebb2-a5dd-433f-a5d6-63b08198fb25)
 
 Create a shared folder for this group at /home/engineers. Command to create the shared folder: sudo mkdir group_sharefolder -p /home/engineer
+
 ![image](https://github.com/user-attachments/assets/25c80076-3dbe-4ab8-87a8-2a5a58ed9712)
 
 
